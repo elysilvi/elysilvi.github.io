@@ -1,4 +1,4 @@
-⁷$(document).ready(function () {
+$(document).ready(function () {
     /*
      * Main variables
      */
@@ -13,7 +13,13 @@
        desc: "menyatakan perasaan itu hal yg cukup serius, banyak yg akan dikorbankan termasuk hasil akhirnya melepas hal yg sudah Iama tersimpan itu cukup melegakan dan bukan hal yg mudah. Dan indahnya cinta adalah penantian. bayangkan saja ada dua orang manusia yang saling mencintai akhirnya menikah setelah penantian yang lama, bersabar bertahun-tahun, sama halnya dengan orang yang berbuka setelah puasa seharian penuh. indah bukan?? "
     }, {
         title: "",
-        desc: "Dek, tolong dijaga yaa hatinya. Mungkin ini egois, tapi tolong kasih satu kesempatan lagi untuk bersamamu tentunya dengan cara yang halal. aku janji bakal ngelamar kamu sebelum kamu umur 25(ato mungkin pas 25 hehe)Agar mental kita siap buat jdi orang tua dan kamu bisa nylesein ppg/s2 kmu. sekarang aku akan mengupgrade diri agar bisa menjadi calon kepala keluarga yang baik, kamu juga harus upgrade dirii lhooooo. DEMI NAHIDAAAA!!!! Doakan yang terbaik yaaa :)"
+        desc: "Dek, tolong dijaga yaa hatinya. Mungkin ini egois, tapi tolong kasih satu kesempatan lagi untuk bersamamu tentunya dengan cara yang halal. aku janji bakal ngelamar kamu sebelum kamu umur 25(ato mungkin pas 25 hehe). sekarang aku akan mengupgrade diri agar bisa menjadi calon kepala keluarga yang baik, kamu juga harus upgrade dirii lhooooo. DEMI NAHIDAAAA!!!!)"
+    },  {
+        title: "Kenapa umur 25?",
+        desc: ""
+    },  {
+        title: "",
+        desc: "Karena manusia matang secara fisik dan mental itu mulai umur 25, jadi pngnku mental kita udah stabil untuk menghadapi permasaahan yang ada. trus menurut survey nikah muda cenderung bnyak timbul bnyak perceraian. jadi mnurutku pling pas ya 25. tpi klo kmu mau lbih cpet, bilang aja"
     }, {
         title: "I Love You!!",
         desc: "Sampai ketemu di versi terbaik kita dek:)"
