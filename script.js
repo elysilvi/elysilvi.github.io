@@ -1,4 +1,4 @@
-$(document).ready(function () {
+⁷$(document).ready(function () {
     /*
      * Main variables
      */
@@ -11,6 +11,9 @@ $(document).ready(function () {
     }, {
        title: "",
        desc: "menyatakan perasaan itu hal yg cukup serius, banyak yg akan dikorbankan termasuk hasil akhirnya melepas hal yg sudah Iama tersimpan itu cukup melegakan dan bukan hal yg mudah. Dan indahnya cinta adalah penantian. bayangkan saja ada dua orang manusia yang saling mencintai akhirnya menikah setelah penantian yang lama, bersabar bertahun-tahun, sama halnya dengan orang yang berbuka setelah puasa seharian penuh. indah bukan?? "
+    }, {
+        title: "",
+        desc: "Dek, tolong dijaga yaa hatinya. Mungkin ini egois, tapi tolong kasih satu kesempatan lagi untuk bersamamu tentunya dengan cara yang halal. aku janji bakal ngelamar kamu sebelum kamu umur 25(ato mungkin pas 25 hehe)Agar mental kita siap buat jdi orang tua dan kamu bisa nylesein ppg/s2 kmu. sekarang aku akan mengupgrade diri agar bisa menjadi calon kepala keluarga yang baik, kamu juga harus upgrade dirii lhooooo. DEMI NAHIDAAAA!!!! Doakan yang terbaik yaaa :)"
     }, {
         title: "",
         desc: "Dek, tolong dijaga yaa hatinya. Mungkin ini egois, tapi tolong kasih satu kesempatan lagi untuk bersamamu tentunya dengan cara yang halal. aku janji bakal ngelamar kamu sebelum kamu umur 25(ato mungkin pas 25 hehe)Agar mental kita siap buat jdi orang tua dan kamu bisa nylesein ppg/s2 kmu. sekarang aku akan mengupgrade diri agar bisa menjadi calon kepala keluarga yang baik, kamu juga harus upgrade dirii lhooooo. DEMI NAHIDAAAA!!!! Doakan yang terbaik yaaa :)"
